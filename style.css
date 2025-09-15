@@ -1,0 +1,41 @@
+.navbar
+{
+    padding: 22px 0 !important;
+    background-color:black !important;
+}
+
+.navbar ul li a
+{
+    color: white !important;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+
+.navbar ul li a:hover
+{
+    color: silver !important;
+}
+
+.navbar-toggle
+{
+    border: 1px solid white !important;
+    transition: all 0.5s ease-in;
+}
+
+.navbar-toggle:hover
+{
+    background-color: silver !important;
+}
+
+.navbar-inverse .navbar-collapse
+{
+    border-color: transparent !important;
+}
+
+.Location
+{
+    border: 1px solid white;
+    border-radius: 50px;
+}
